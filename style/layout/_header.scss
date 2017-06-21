@@ -1,0 +1,17 @@
+header a{
+  text-decoration: none;
+  color: white;
+}
+
+.nav-icon{
+  height: 25px;
+}
+
+.nav-mobile{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: $navbackgroundcolor;
+  position: fixed;
+}
